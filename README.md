@@ -21,4 +21,4 @@ Davide Gerosa, Michael Kesden, Emanuele Berti, Richard O’Shaughnessy, Ulrich S
 - *Resonant-plane locking and spin alignment in stellar-mass black-hole binaries: a diagnostic of compact-binary formation*.
 Davide Gerosa, Michael Kesden, Emanuele Berti, Richard O’Shaughnessy, Ulrich Sperhake. Phys.Rev.D 87 (2013) 104028. [arXiv:1302.4442](https://arxiv.org/abs/1302.4442).
 
-- *Spin alignment effects in black hole binaries*. Davide Gerosa. Caltech Undergraduate Research Journal (CURJ) Vol.15 No.1 (2014)
+- *Spin alignment effects in black hole binaries*. Davide Gerosa. Caltech Undergraduate Research Journal (CURJ) [Vol.15 No.1 (2014)](http://curj.caltech.edu/documents/7-curj_v15n1.pdf).
