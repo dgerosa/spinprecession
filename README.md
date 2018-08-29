@@ -23,4 +23,5 @@ Davide Gerosa, Michael Kesden, Emanuele Berti, Richard O’Shaughnessy, Ulrich S
 
 ### Credit
 
-You are more than welcome to use these results in your presenations! We kindly ask you to cite the relevant. If you want to cite the animations specifically, it's DOI.
+You are more than welcome to use these results in your presenations! We kindly ask you to cite the relevant. If you want to cite the animations specifically, it's [![DOI](https://zenodo.org/badge/146471853.svg)](https://zenodo.org/badge/latestdoi/146471853).
+
