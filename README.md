@@ -10,7 +10,7 @@ This page contains data supporting some of my papers on black-hole binary spin p
   
 - *Surprises from the spins: astrophysics and relativity with detections of spinning black-hole mergers*. Davide Gerosa. Journal of Physics: Conf. Series 957 (2018) 012014. [arXiv:1711.10038](https://arxiv.org/abs/1711.10038).
 
-- * Wide precession: binary black-hole spins repeatedly oscillating from
+- *Wide precession: binary black-hole spins repeatedly oscillating from
   full alignment to full anti-alignment*. Davide Gerosa, Alicia Lima, Emanuele Berti, Ulrich Sperhake, Michael
   Kesden, Richard O'Shaughnessy. [arXiv:1811.05979](https://arxiv.org/abs/1811.05979).
 
