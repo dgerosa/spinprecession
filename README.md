@@ -4,7 +4,7 @@ This page contains data supporting some of my papers on black-hole binary spin p
 
   
 
-- *Endpoint of the up-down instability in precessing binary black holes*. Matthew Mould, Davide Gerosa. [arXiv:2003.xxxxx](https://arxiv.org/abs/2003.xxxxx).
+- *Endpoint of the up-down instability in precessing binary black holes*. Matthew Mould, Davide Gerosa. [arXiv:2003.02281](https://arxiv.org/abs/2003.02281).
 
 - *Wide precession: binary black-hole spins repeatedly oscillating from
   full alignment to full anti-alignment*. Davide Gerosa, Alicia Lima, Emanuele Berti, Ulrich Sperhake, Michael
