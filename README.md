@@ -3,8 +3,10 @@
 This page contains data supporting some of my papers on black-hole binary spin precession. Most of these results are obtained with the public [precession](https://github.com/dgerosa/precession/) code. In particular, we provide animated versions of some of the figures from:
 
   
+- *Up-down instability of binary black holes in numerical relativity*. Vijay Varma, Matthew Mould, Davide Gerosa, Mark A. Scheel, Lawrence E.
+  Kidder, and Harald P. Pfeiffer. [arXiv:2012.07147](https://arxiv.org/abs/2012.07147).
 
-- *Endpoint of the up-down instability in precessing binary black holes*. Matthew Mould, Davide Gerosa. [arXiv:2003.02281](https://arxiv.org/abs/2003.02281).
+- *Endpoint of the up-down instability in precessing binary black holes*. Matthew Mould, Davide Gerosa. Phys.Rev.D 101 (2020) 124037.  [arXiv:2003.02281](https://arxiv.org/abs/2003.02281).
 
 - *Wide precession: binary black-hole spins repeatedly oscillating from
   full alignment to full anti-alignment*. Davide Gerosa, Alicia Lima, Emanuele Berti, Ulrich Sperhake, Michael
