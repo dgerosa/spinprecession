@@ -2,6 +2,7 @@
 
 This page contains data supporting some of my papers on black-hole binary spin precession. Most of these results are obtained with the public [precession](https://github.com/dgerosa/precession/) code. In particular, we provide animated versions of some of the figures from:
 
+- *Residual eccentricity as a systematic uncertainty on the formation channels of binary black holes*. Giulia Fumagalli, Isobel Romero-Shaw, Davide Gerosa, Viola De Renzis, Konstantinos Kritos, Aleksandra Olejak. [arXiv:2405.soon](https://arxiv.org/abs/2405.soon).
   
 - *Up-down instability of binary black holes in numerical relativity*. Vijay Varma, Matthew Mould, Davide Gerosa, Mark A. Scheel, Lawrence E.
   Kidder, and Harald P. Pfeiffer. [arXiv:2012.07147](https://arxiv.org/abs/2012.07147).
